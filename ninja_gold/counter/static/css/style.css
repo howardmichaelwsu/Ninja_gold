@@ -1,0 +1,43 @@
+#header {
+    color: gold
+}
+#farming {
+    height: 200px;
+    width: 200px;
+    border: 2pt black solid;
+    display: inline-block;
+    margin-right: 100px;
+    margin-left: 70px;
+    text-align: center;
+}
+#cave {
+    height: 200px;
+    width: 200px;
+    border: 2pt black solid;
+    display: inline-block;
+    margin-right: 100px;
+    text-align: center;
+}
+#house {
+    height: 200px;
+    width: 200px;
+    border: 2pt black solid;
+    display: inline-block;
+    margin-right: 100px;
+    text-align: center;
+}
+#casino {
+    height: 200px;
+    width: 200px;
+    border: 2pt black solid;
+    display: inline-block;
+    text-align: center;
+}
+#reset {
+    margin-top: 5%;
+}
+#activity {
+    height: 200px;
+    border: 2pt black solid;
+    overflow: auto;
+}
